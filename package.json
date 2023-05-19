@@ -18,7 +18,7 @@
     "express-middleware-obfuscator": "^1.0.6",
     "http-errors": "~1.6.3",
     "jade": "~1.11.0",
-    "javascript-obfuscator": "^4.0.0",
+    "javascript-obfuscator": "^4.0.2",
     "morgan": "~1.9.1",
     "vhost": "^3.0.2"
   }
