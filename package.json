@@ -16,7 +16,7 @@
     "ethers": "^5.7.2",
     "express": "~4.16.1",
     "express-middleware-obfuscator": "^1.0.6",
-    "http-errors": "~1.6.3",
+    "http-errors": "~1.8.1",
     "jade": "~1.11.0",
     "javascript-obfuscator": "^4.0.0",
     "morgan": "~1.9.1",
