@@ -1,4 +1,4 @@
-FROM node:hydrogen-slim
+FROM node:18.20.3-slim
 
 # создание директории приложения
 WORKDIR /usr/src/app
